@@ -5,9 +5,8 @@
  */
 package br.inatel.gespet.view;
 
-import br.inatel.gespet.control.PrincipaisInfoAnimalDAO;
-import br.inatel.gespet.model.Animal;
-import br.inatel.gespet.model.PrincipaisInfoAnimal;
+import br.inatel.gespet.control.*;
+import br.inatel.gespet.model.*;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 

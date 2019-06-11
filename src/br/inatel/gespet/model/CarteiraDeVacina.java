@@ -1,6 +1,5 @@
 package br.inatel.gespet.model;
 
-import br.inatel.gespet.model.Vacina;
 import java.sql.Timestamp;
 import java.util.Scanner;
 import br.inatel.gespet.control.CarteiraDeVacinaDAO;

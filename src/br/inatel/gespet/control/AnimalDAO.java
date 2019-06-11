@@ -23,9 +23,9 @@ public class AnimalDAO {
 
     //Aributos bases
     private final String database = "pet_shop"; //nome do banco a ser utilizadao
-    private final String url = "jdbc:mysql://localhost:3306/" + database + "?autoReconnect=true&useSSL=false";
+    private final String url = "jdbc:mysql://127.0.0.1:3306/" + database + "?autoReconnect=true&useSSL=false";
     private final String user = "root"; //Usuario
-    private final String passoword = "12345"; //Senha
+    private final String passoword = "@snesDK64"; //Senha
 
     //Variavel de Controle
     private boolean sucesso;
